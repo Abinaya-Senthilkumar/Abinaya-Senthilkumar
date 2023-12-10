@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **CodSoft Internship and Info aidtech Internship**
+- 🔭 I’m currently working on **CodSoft Internship, MyDino and Info aidtech Internship**
 
 - 🌱 I’m currently learning **Data Science, SQL, Power BI**
 

@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abinaya</h1>
-<h3 align="center">I am a student with passion for Data Science</h3>
+<h3 align="center">I am a student with passion for Big Data Engineering</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abinaya-senthilkumar&label=Profile%20views&color=0e75b6&style=flat" alt="abinaya-senthilkumar" /> </p>
 

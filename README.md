@@ -23,6 +23,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abinaya-senthilkumar&show_icons=true&locale=en&layout=compact" alt="abinaya-senthilkumar" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abinaya-senthilkumar&show_icons=true&locale=en" alt="abinaya-senthilkumar" /></p>
+<p>&nbsp;<img align="center" src="[https://github-readme-stats.vercel.app/api?username=abinaya-senthilkumar&show_icons=true&locale=en](https://github.com/Abinaya-Senthilkumar/Portfolio/blob/main/profile%20pic.png?raw=true)" alt="abinaya-senthilkumar" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abinaya-senthilkumar&" alt="abinaya-senthilkumar" /></p>
